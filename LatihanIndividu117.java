@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class LatihanIndividu117 {
     public static void main(String[] args) {
-        Scanner sc27 = new Scanner(System.in);
+        Scanner input17 = new Scanner(System.in);
         int bil1, bil2, bil3;
         int bilBesar;
 
